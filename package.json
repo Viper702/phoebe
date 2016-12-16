@@ -5,6 +5,7 @@
   "author": "Viper702 <viper760@gmail.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "chai": "^3.5.0",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-epichal": "^0.1.2",
@@ -18,7 +19,10 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^4.2.2"
+    "hubot-slack": "^4.2.2",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.6",
+    "sinon-chai": "^2.8.0"
   },
   "engines": {
     "node": "0.10.x"
