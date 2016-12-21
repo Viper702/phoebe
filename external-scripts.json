@@ -1,4 +1,5 @@
 [
+  "dorfbot-rpgdice",
   "hubot-diagnostics",
   "hubot-epichal",
   "hubot-help",
@@ -7,9 +8,12 @@
   "hubot-google-translate",
   "hubot-pugme",
   "hubot-maps",
+  "hubot-microsoft-translator",
   "hubot-redis-brain",
+  "hubot-respond",
   "hubot-rules",
   "hubot-search",
   "hubot-shipit",
-  "hubot-weather"
+  "hubot-weather",
+  "hubot-youtube"
 ]
