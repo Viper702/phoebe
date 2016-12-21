@@ -1,6 +1,7 @@
 [
   "dorfbot-rpgdice",
   "hubot-diagnostics",
+  "hubot-cool-ascii-faces",
   "hubot-epichal",
   "hubot-help",
   "hubot-heroku-keepalive",
@@ -9,10 +10,12 @@
   "hubot-pugme",
   "hubot-maps",
   "hubot-microsoft-translator",
+  "hubot-nietzche:,
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-search",
   "hubot-shipit",
+  "hubot-stache",
   "hubot-weather",
   "hubot-youtube"
 ]
