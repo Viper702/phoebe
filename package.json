@@ -9,6 +9,7 @@
     "dorfbot-rpgdice": "^1.0.29",
     "fakeredis": "^1.0.3",
     "hubot": "^2.19.0",
+    "hubot-alias": "^0.1.11",
     "hubot-auth": "^2.0.0",
     "hubot-cool-ascii-faces": "^1.2.0",
     "hubot-diagnostics": "0.0.1",
