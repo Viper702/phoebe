@@ -11,6 +11,7 @@
   "hubot-pugme",
   "hubot-maps",
   "hubot-microsoft-translator",
+  "hubot-mongodb-brain",
   "hubot-nietzche",
   "hubot-redis-brain",
   "hubot-rules",
