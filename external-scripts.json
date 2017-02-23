@@ -25,6 +25,7 @@
   "hubot-microsoft-translator",
   "hubot-nietzche",
   "hubot-onboarding",
+  "hubot-phrases",
   "hubot-redis-brain",
   "hubot-rss-reader",
   "hubot-rocketchat-announcement",
