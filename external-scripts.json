@@ -16,7 +16,6 @@
   "hubot-maps",
   "hubot-microsoft-translator",
   "hubot-nietzche",
-  "hubot-redis-brain",
   "hubot-brain-redis-hash",
   "hubot-rss-reader",
   "hubot-rocketchat-announcement",
