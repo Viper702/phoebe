@@ -1,6 +1,5 @@
 [
   "dorfbot-rpgdice",
-  "hubot-help",
   "hubot-alias",
   "hubot-auth",
   "hubot-mysql-chatops",
@@ -16,6 +15,7 @@
   "hubot-factoid",
   "hubot-faq",
   "hubot-funbox",
+  "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-history",
   "hubot-google-images",
