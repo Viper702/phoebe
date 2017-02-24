@@ -6,6 +6,7 @@
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "chai": "^3.5.0",
+    "cheerio": "^0.22.0",
     "coffee-script": "^1.12.4",
     "dorfbot-rpgdice": "^1.0.29",
     "dotenv": "^4.0.0",
@@ -73,7 +74,8 @@
     "rocket-chat": "0.0.1",
     "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0",
-    "soupselect": "^0.2.0"
+    "soupselect": "^0.2.0",
+    "tumblrbot": "^0.1.0"
   },
   "engines": {
     "node": "0.10.x"
