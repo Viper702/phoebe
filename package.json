@@ -71,7 +71,8 @@
     "pkginfo": "^0.4.0",
     "rocket-chat": "0.0.1",
     "sinon": "^1.17.6",
-    "sinon-chai": "^2.8.0"
+    "sinon-chai": "^2.8.0",
+    "soupselect": "^0.2.0"
   },
   "engines": {
     "node": "0.10.x"
