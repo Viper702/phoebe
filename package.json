@@ -16,6 +16,7 @@
     "htmlparser": "^1.7.7",
     "hubot": "^2.19.0",
     "hubot-alias": "^0.1.11",
+    "hubot-anon": "0.0.4",
     "hubot-auth": "^2.1.0",
     "hubot-cleverbot": "^1.0.0",
     "hubot-config": "^1.0.1",

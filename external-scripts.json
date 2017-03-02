@@ -1,6 +1,7 @@
 [
   "dorfbot-rpgdice",
   "hubot-alias",
+  "hubot-anon",
   "hubot-auth",
   "hubot-cleverbot",
   "hubot-config",
@@ -10,6 +11,7 @@
   "hubot-espn",
   "hubot-event-announcer",
   "hubot-externalhelp",
+  "faceup.coffee",
   "hubot-factoid",
   "hubot-faq",
   "hubot-funbox",
