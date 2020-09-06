@@ -1,5 +1,4 @@
 [
-"46elks.coffee",
 "advice.coffee",
 "announce.coffee",
 "auto-stache.coffee",
@@ -20,7 +19,6 @@
 "email.coffee",
 "fuck_yeah_nouns.coffee",
 "good-night.coffee",
-"hackernews.coffee",
 "haters.coffee",
 "http-say.coffee",
 "ip.coffee",
@@ -40,8 +38,5 @@
 "sms.coffee",
 "speak.coffee",
 "take-the-blame.coffee",
-"talkative.coffee",
-"thebattle.coffee",
-"update.coffee",
-"yell.coffee"
+"talkative.coffee"
 ]
