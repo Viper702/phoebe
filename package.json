@@ -70,7 +70,6 @@
     "hubot-voting": "^1.0.0",
     "hubot-warm-welcome": "^1.0.1",
     "hubot-weather": "^1.0.4",
-    "hubot-youtube": "^1.0.2",
     "istanbul": "^0.4.5",
     "line-reader": "^0.4.0",
     "mocha": "^3.2.0",
